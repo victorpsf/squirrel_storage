@@ -1,6 +1,18 @@
 {
-  "dependencies": {
-    "squirrel_util": "^1.0.8"
+  "version": "1.0.1",
+  "name": "storage_module",
+  "description": "Manipulação de arquivos locais",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
   },
-  "version": "0.0.1"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Victorpsf/squirrel_storage.git"
+  },
+  "keywords": ["nodejs", "javascript"],
+  "author": "João Victor Palmeira da Silva Ferreira",
+  "license": "ISC",
+  "bugs": { "url": "https://github.com/Victorpsf/squirrel_storage/issues" },
+  "homepage": "https://github.com/Victorpsf/squirrel_storage#readme"
 }
