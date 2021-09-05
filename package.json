@@ -1,6 +1,6 @@
 {
   "version": "1.0.1",
-  "name": "storage_module",
+  "name": "squirrel_storage",
   "description": "Manipulação de arquivos locais",
   "main": "index.js",
   "directories": {
