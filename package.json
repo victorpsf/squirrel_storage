@@ -1,5 +1,5 @@
 {
-  "version": "1.0.2",
+  "version": "1.0.3",
   "name": "squirrel_storage",
   "description": "Manipulação de arquivos locais",
   "main": "index.js",
