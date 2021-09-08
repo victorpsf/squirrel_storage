@@ -8,12 +8,12 @@ declare namespace Path {
   }
 }
 
-declare interface Path {
-  basePath: string;
-  join(arguments: string[]): string;
-  joinAndUseBasePath(arguments: string[]): string;
-  pathParser(argument: string): Path.PathParse;
-  pathDir(argument: string): string;
+class Path {
+  static basePath: string;
+  static join(arguments: string[]): string;
+  static joinAndUseBasePath(arguments: string[]): string;
+  static pathParser(argument: string): Path.PathParse;
+  static pathDir(argument: string): string;
 }
 
 export = Path

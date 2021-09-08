@@ -12,8 +12,10 @@ declare class Storage {
   SetType(content: contents): Storage;
   GetType(): contents;
   FullPath(): string;
+  ListDirSync(): string[];
   Exists(): boolean;
   CreateDir(): void;
+  DeleteFileSync(): void;
   WriteFileSync(filename: string, value: any): void;
   AppendFileSync(filename: string, value: any): void;
   ReadFileSync(filename: string): void;
