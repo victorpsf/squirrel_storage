@@ -9,7 +9,7 @@ $ npm install --save squirrel_util squirrel_storage
 
 ## Conteudo
 
-- [Estância da classe](#estância-da-classe)
+- [Instância da classe](#instância-da-classe)
 - [Verificação de diretorio](#verificação-de-diretorio)
 - [Verificação de conteúdo do diretorio](#verificação-de-conteúdo-do-diretorio)
 - [Escrita de arquivo](#escrita-de-arquivo)
@@ -18,7 +18,7 @@ $ npm install --save squirrel_util squirrel_storage
 - [Remoção de arquivo](#remoção-de-arquivo)
 - [Outras informações](#outras-informações)
 
-### Estância da classe
+### Instância da classe
 
 Temos alguns parametros
 
